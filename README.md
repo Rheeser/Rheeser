@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Rheeser
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
 
-<!---
 Rheeser/Rheeser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Welcome to Visual Voicemail. You'll be able to see all your messages, reply, store or forward them, all right here. To listen to your messages in any order, at any time, simply select the message you want to hear and press play.
-Welcome to Visual Voicemail. You'll be able to see all your messages, reply, store or forward them, all right here. To listen to your messages in any order, at any time, simply select the message you want to hear and press play.
+--->Welcome t
